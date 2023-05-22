@@ -1,0 +1,17 @@
+C:\Users\Дмитрий\Desktop\Game 1\obj\Debug\Game 1.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Game 1\obj\Debug\Game 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Дмитрий\Desktop\Game 1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Дмитрий\Desktop\Game 1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\Game 1\obj\Debug\Game 1.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\Game 1\obj\Debug\Game 1.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Game 1\bin\Debug\Game 1.exe
+C:\Users\Дмитрий\Desktop\Game 1\obj\Debug\WindowsFormsApp1.Level2.resources
+C:\Users\Дмитрий\Desktop\Game 1\obj\Debug\WindowsFormsApp1.Level3.resources
+C:\Users\Дмитрий\Desktop\Game 1\bin\Debug\Game 1.exe.config
+C:\Users\Дмитрий\Desktop\Game 1\obj\Debug\Game 1.exe
+C:\Users\Дмитрий\Desktop\Game 1\obj\Debug\Game 1.pdb
+C:\Users\Дмитрий\Desktop\Game 1\bin\Debug\Game 1.pdb
+C:\Users\Дмитрий\Desktop\Game 1\obj\Debug\WindowsFormsApp1.Level4.resources
+C:\Users\Дмитрий\Desktop\Game 1\obj\Debug\WindowsFormsApp1.Level5.resources
+C:\Users\Дмитрий\Desktop\Game 1\obj\Debug\WindowsFormsApp1.End.resources
+C:\Users\Дмитрий\Desktop\Game 1\obj\Debug\WindowsFormsApp1.Menu.resources
